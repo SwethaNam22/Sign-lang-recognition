@@ -12,6 +12,7 @@ LightGBM 💡
 Support Vector Machine (SVM) 🔲
 Decision Tree 🌳
 Random Forest 🌲
+
 The goal is to evaluate the effectiveness of each algorithm in recognizing sign language gestures accurately.
 ------------------------
 Workflow 🔄
