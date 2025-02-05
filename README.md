@@ -19,8 +19,10 @@ Workflow 🔄
 We load and split the dataset into training and testing sets.
 Image augmentation is applied to the training dataset to improve model generalization and prevent overfitting.
 Data preprocessing techniques are applied to enhance the features and prepare the images for the model.
+
 -->Feature Extraction:
 CNN (Convolutional Neural Network) layers are used for better feature extraction from the images. This helps the models learn essential patterns from the gestures effectively.
+
 -->Training ML Models:
 The following machine learning algorithms are trained on the processed data:
 XGBoost
