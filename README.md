@@ -3,6 +3,7 @@ Sign Language Recognition System (SLRS) 🤖
 Motivation 💡
 Sign language is a powerful means of communication for individuals with hearing disabilities. It bridges the gap between the hearing and deaf communities, empowering people to connect with the world around them. 
 In this project, I aim to build a system that can accurately recognize and classify sign language gestures, making it easier for people with hearing disabilities to interact with others and access information seamlesly.
+
 This project leverages the power of machine learning algorithms to bring us one step closer to a more inclusive world 🌍.
 -----------------------
 Objective 🎯
